@@ -96,7 +96,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+[Medium ](https://medium.com/@aroraprince/a-short-guide-to-dags-in-airflow-2-0-using-taskflow-api-7a792c7d9e9d)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
