@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aroraprince/aroraprince/blob/main/IMG-20211129-WA0019.jpg" align="center" style="width: 25%" />
+<!-- <img src="https://github.com/aroraprince/aroraprince/blob/main/IMG-20211129-WA0019.jpg" align="center" style="width: 25%" /> -->
 </div>  
   
 
